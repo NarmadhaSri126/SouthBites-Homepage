@@ -858,19 +858,18 @@ width: 100%;
   .food-price {
     font-size: 1.2rem;
   }
-
-
-.contact-img{
-  text-align: center;
-}
-.food-container img {
-  display: block;
-  width: 300px;
-  height: 200px;
- 
-  margin: auto;
-  max-height: 300px;
-  object-fit: cover;
-  object-position: center;
-}
+  .contact-img{
+    text-align: center;
+  }
+  .food-container img {
+    display: block;
+    width: 300px;
+    height: 200px;
+   
+    margin: auto;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+  }
+  
 }
