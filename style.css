@@ -373,7 +373,9 @@ width: 100%;
 }
 
 /* ........./ Testimonial /.......... */
-
+.customer-detail{
+  border : 5px solid;
+}
 #testimonials {
   padding: 5rem 0;
   background: rgba(243, 243, 243);
